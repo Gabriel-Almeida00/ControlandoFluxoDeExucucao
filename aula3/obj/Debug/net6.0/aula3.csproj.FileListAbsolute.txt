@@ -1,0 +1,15 @@
+C:\projeto-c#\aula3\bin\Debug\net6.0\aula3.exe
+C:\projeto-c#\aula3\bin\Debug\net6.0\aula3.deps.json
+C:\projeto-c#\aula3\bin\Debug\net6.0\aula3.runtimeconfig.json
+C:\projeto-c#\aula3\bin\Debug\net6.0\aula3.dll
+C:\projeto-c#\aula3\bin\Debug\net6.0\aula3.pdb
+C:\projeto-c#\aula3\obj\Debug\net6.0\aula3.csproj.AssemblyReference.cache
+C:\projeto-c#\aula3\obj\Debug\net6.0\aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeto-c#\aula3\obj\Debug\net6.0\aula3.AssemblyInfoInputs.cache
+C:\projeto-c#\aula3\obj\Debug\net6.0\aula3.AssemblyInfo.cs
+C:\projeto-c#\aula3\obj\Debug\net6.0\aula3.csproj.CoreCompileInputs.cache
+C:\projeto-c#\aula3\obj\Debug\net6.0\aula3.dll
+C:\projeto-c#\aula3\obj\Debug\net6.0\refint\aula3.dll
+C:\projeto-c#\aula3\obj\Debug\net6.0\aula3.pdb
+C:\projeto-c#\aula3\obj\Debug\net6.0\aula3.genruntimeconfig.cache
+C:\projeto-c#\aula3\obj\Debug\net6.0\ref\aula3.dll
